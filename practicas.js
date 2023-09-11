@@ -74,3 +74,14 @@ return Resta
 }
 alert(Resta(6))
 
+
+
+let MeLlevoMaterias = false
+if (MeLlevoMaterias == true)
+{
+    alert ('Se va a llevar Materias')
+}
+else {
+    alert ('Le compran algo')
+}
+
